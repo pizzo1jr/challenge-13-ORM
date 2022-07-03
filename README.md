@@ -8,6 +8,7 @@ MySQL
 
 # Issues
 had issues getting MYSQL to work. will update project 
+VIDEO WILL BE ADDED SHORTLY 
 
 # User Story
 
